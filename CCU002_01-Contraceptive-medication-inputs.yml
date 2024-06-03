@@ -1,0 +1,54 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/ccu002_01-contraceptive-medication-ethinylest---primary.py
+inputModule3:
+  class: File
+  path: python/ccu002_01-contraceptive-medication-500microgram---primary.py
+inputModule4:
+  class: File
+  path: python/ccu002_01-contraceptive-medication-003mg---primary.py
+inputModule5:
+  class: File
+  path: python/ccu002_01-contraceptive-medication-002mg---primary.py
+inputModule6:
+  class: File
+  path: python/ccu002_01-contraceptive-medication-tablet---primary.py
+inputModule7:
+  class: File
+  path: python/ccu002_01-contraceptive-medication-levest---primary.py
+inputModule8:
+  class: File
+  path: python/ccu002_01-contraceptive-medication-loestrin---primary.py
+inputModule9:
+  class: File
+  path: python/ccu002_01-contraceptive-medication-qlaira---primary.py
+inputModule10:
+  class: File
+  path: python/ccu002_01-contraceptive-medication-femodene---primary.py
+inputModule11:
+  class: File
+  path: python/ccu002_01-contraceptive-medication-logynon---primary.py
+inputModule12:
+  class: File
+  path: python/ccu002_01-contraceptive-medication-0015mg---primary.py
+inputModule13:
+  class: File
+  path: python/ccu002_01-contraceptive-medication-acetate---primary.py
+inputModule14:
+  class: File
+  path: python/ccu002_01-contraceptive-medication-microgynon---primary.py
+inputModule15:
+  class: File
+  path: python/ccu002_01-contraceptive-medication-35microgram---primary.py
+inputModule16:
+  class: File
+  path: python/ccu002_01-contraceptive-medication---primary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
